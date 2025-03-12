@@ -1,1 +1,2 @@
 
+Develop an AI-powered medical question-answering chatbot that provides accurate and context-aware responses to user queries related to health and medical conditions. The chatbot will use Retrieval-Augmented Generation (RAG) with a Large Language Model (LLM) to enhance response accuracy by retrieving relevant medical documents before generating answers.
