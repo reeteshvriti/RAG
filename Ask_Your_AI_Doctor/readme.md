@@ -20,4 +20,6 @@ Key Objectives:
 Expected Impact:
 Reduce misinformation in online medical queries.
 Assist users in making informed healthcare decisions.
+
+In this project we have used FAISS Vector database, Gradio for front end please import all the necessary libraries mentioned in the .pynb file and create a index file for FAISS.
 Serve as a first-line AI assistant before consulting a doctor.
